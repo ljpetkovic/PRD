@@ -5,4 +5,4 @@ La thèse est dirigée par Prof. Dr Glenn Roe et co-encadrée par Dr Motasem Alr
 
 Ces versions sont placées dans les dossiers renommés par ordre chronologique :
 1. `1_OPUS_2021` : PRD initial, réponse à l’[appel à projets](https://institut-opus.sorbonne-universite.fr/actualites-opus/campagne-dattribution-de-contrats-doctoraux) de OPUS co-rédigé avec l’équipe de direction présentée ci-dessus.
-2. `2_EnExDi_2022` : PRD abrégé et mis à jour pour la candidature à l’école de formation intensive [/EnExDi/](https://enexdi.sciencesconf.org) (_Encoder · Exploiter · Diffuser_) en humanités numériques dans les projets de recherche, rédigé par Ljudmila Petković, relu par Dr Motasem Alrahabi et Dr Simon Gabay (Université de Genève, Faculté des Lettres, Chaire des humanités numériques)
+2. `2_EnExDi_2022` : PRD abrégé et mis à jour pour la candidature à l’école de formation intensive [_EnExDi_](https://enexdi.sciencesconf.org) (_Encoder · Exploiter · Diffuser_) en humanités numériques dans les projets de recherche, rédigé par Ljudmila Petković, relu par Dr Motasem Alrahabi et Dr Simon Gabay (Université de Genève, Faculté des Lettres, Chaire des humanités numériques)
